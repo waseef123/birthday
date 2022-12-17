@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    
+}
+img {
+    width: 400px;
+    opacity: 0.5;
+    border: 5px ridge black;
+}
+img:hover{
+    opacity:1;
+    transform:translateY(-10px);
+}
+button {
+    border-radius: 20px;    
+    background-color:aquamarine;
+padding: 5px;
+}
